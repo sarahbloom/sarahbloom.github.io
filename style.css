@@ -26,3 +26,7 @@ p {
 li::before {
 	"\2022"
 }
+
+li {
+	text-align: center;
+}

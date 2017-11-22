@@ -2,16 +2,21 @@ body {
   Font-Family: Avenir Next, Optima, Courier;
   height: 100%;
 	margin: 0;
-	text-align: center;
+	text-align: Left;
 	width: 100%;
 }
 
 h1 {
-	font-size: 32px;
+	font-size: 48px;
+	text-align: center;
 }
 
-h2 {
-	font-size: 24px; 
+h3 {
+	font-size: 32px; 
+	text-align: center;
+}
+h4 {
+	font-size: 24px;
 }
 p {
 	font-size: 16px;

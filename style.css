@@ -1,3 +1,18 @@
+body {
+  Font-Family: Avenir, Helevetica;
+  height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 24px; 
+}
 p {
-font-type: helvitica
+	font-size: 12px;
 }
